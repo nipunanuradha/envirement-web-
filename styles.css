@@ -1,0 +1,61 @@
+.container-fluid {
+    background-image: -webkit-repeating-linear-gradient(270deg,rgba(199,223,184,1.00) 0%,rgba(23,90,3,1.00) 100%), url(url);
+    background-image: -moz-repeating-linear-gradient(270deg,rgba(199,223,184,1.00) 0%,rgba(23,90,3,1.00) 100%), url(url);
+    background-image: -o-repeating-linear-gradient(270deg,rgba(199,223,184,1.00) 0%,rgba(23,90,3,1.00) 100%), url(url);
+    background-image: repeating-linear-gradient(180deg,rgba(199,223,184,1.00) 0%,rgba(23,90,3,1.00) 100%), url(url);
+    -webkit-box-shadow: 0px 0px;
+    box-shadow: 0px 0px;
+
+}
+#headingOne1 .mb-0 a {
+    background-color: #FBEDED;
+
+}
+#headingOne1 .mb-0 a {
+}
+#accordion1 .card #headingOne1 {
+    background-color: #EEEEEE;
+}
+#accordion1 .card #headingTwo1 {
+    background-color: #FFFFFF;
+    background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(252,252,252,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(252,252,252,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(252,252,252,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(252,252,252,1.00) 100%);
+}
+.container-fluid {
+    background-image: -webkit-linear-gradient(270deg,rgba(224,244,208,1.00) 0%,rgba(108,186,27,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(224,244,208,1.00) 0%,rgba(108,186,27,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(224,244,208,1.00) 0%,rgba(108,186,27,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(224,244,208,1.00) 0%,rgba(108,186,27,1.00) 100%);
+}
+footer .row .col-lg-6 {
+    color: #0E0D0D;
+}
+
+
+#headingTwo1 .mb-0 .collapsed {
+    background-color: #EFEFEF;
+}
+#headingThree1 .mb-0 .collapsed {
+    background-color: #FAF3F3;
+}
+#accordion1 .card #headingThree1 {
+    background-color: #FEFEFE;
+}
+
+
+
+
+
+
+
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(91,255,0,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(91,255,0,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(91,255,0,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(91,255,0,1.00) 100%);
+}
+.container-fluid .container footer {
+    color: #EE752E;
+}
